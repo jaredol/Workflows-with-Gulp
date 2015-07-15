@@ -1,0 +1,12 @@
+{
+  "name": "gulptice",
+  "version": "0.0.1",
+  "description": "A project to practice Gulp",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Jared",
+  "license": "ISC"
+}
